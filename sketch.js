@@ -5,11 +5,9 @@ function setup() {
 }
 
 function draw() {
-  background(255,125,0);
+  background(255,200,0);
 
   fill("red");
   rect(200, 200, 100, 100);
 
-  fill("green");
-  ellipse(30, 30, 30);
 }
