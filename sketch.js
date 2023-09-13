@@ -5,9 +5,11 @@ function setup() {
 }
 
 function draw() {
-  background(255,200,0);
+  background(200,200,0);
 
   fill("red");
   rect(200, 200, 100, 100);
+
+  rect(50, 50);
 
 }
